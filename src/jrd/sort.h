@@ -151,6 +151,7 @@ const int SKD_timestamp_tz	= 20;
 const UCHAR SKD_ascending		= 0;	// default initializer
 const UCHAR SKD_descending		= 1;
 const UCHAR SKD_binary			= 2;
+const UCHAR SKD_separate_data	= 4;
 
 // Sort key definition block
 
